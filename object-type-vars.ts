@@ -8,5 +8,4 @@ person = {
    age: 25
 };
 
-
-console.log(person); 
+console.log(person); // { name: 'John', age: 25 }
